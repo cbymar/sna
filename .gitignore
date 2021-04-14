@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+ignoreland/
+*.csv
+*.json
+*.pq
+*.html
+*.ipynb
+.idea/
+.DS_Store
+*.yaml
+
